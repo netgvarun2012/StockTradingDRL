@@ -6,6 +6,7 @@
 - Contestants needed to select several optimal time points for each stock to trade within the trading time. "Buy low, Sell high".
 
 After thorough literature review, We zeroed in on using Deep Re-inforcement learning method called PPO (Proximal Policy Optimizer).
+
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/93938450/235061302-81cc709d-5d89-459b-984c-39715e910e28.png">
 
 As per the innovation, we brought to the competition, we introduced the following:
