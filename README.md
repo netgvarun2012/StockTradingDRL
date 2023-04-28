@@ -19,5 +19,6 @@ As per the innovation, we brought to the competition, we introduced the followin
 
 
 PPO algorithm by OPENAI uses a neural network to repesent the policy function (mapping between states and actios):
+
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/93938450/235061516-7a55dd36-e961-48c5-a2fc-c58a61af21fd.png">
 
