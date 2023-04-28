@@ -1,0 +1,5 @@
+gym
+stable_baselines3
+cloudpickle==2.2.1
+scikit-learn==1.0
+tensorboard
