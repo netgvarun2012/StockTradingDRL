@@ -16,3 +16,7 @@ As per the innovation, we brought to the competition, we introduced the followin
 - Short-selling.
 
 - Explainability of results.
+
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/93938450/235061516-7a55dd36-e961-48c5-a2fc-c58a61af21fd.png">
+
