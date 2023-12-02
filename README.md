@@ -1,3 +1,4 @@
+[Medium Article link](https://medium.com/@sharmavarun.cs/deep-reinforcement-learning-for-stock-trading-90c6f63d3439)  
 ## Repo for our submission to NUS AI Innovation challenge 2023. We were one of the 8 finalists selected out of 104 teams.
 
 - The competition required the contestants to establish the stock timing model, spontaneously find the best trading opportunity to complete the trading and strive for the lowest overall trading cost of the stock.
